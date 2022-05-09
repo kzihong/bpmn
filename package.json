@@ -1,0 +1,11 @@
+{
+  "name": "bpmn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kzihong/bpmn.git",
+  "author": "kuangzihong <kuangzihong@cvte.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bpmn-js": "^9.0.3"
+  }
+}
